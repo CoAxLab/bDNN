@@ -1,2 +1,2 @@
-# dBNN
-Deep Biological Neural Network
+# bDNN
+Biological Deep Neural Network
